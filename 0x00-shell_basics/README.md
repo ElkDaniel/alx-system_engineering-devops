@@ -1,1 +1,1 @@
-listfiles
+list hidden files
