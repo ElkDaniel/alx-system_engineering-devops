@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$input" | grep -wvf <(echo "$input" | sort | uniq -d)
