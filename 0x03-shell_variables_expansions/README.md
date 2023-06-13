@@ -1,1 +1,1 @@
-globalvariable
+true
